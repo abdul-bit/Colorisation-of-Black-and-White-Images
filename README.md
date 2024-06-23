@@ -104,9 +104,7 @@ Object Level Features for Image Colourisation.”_ , ArXiv, 2021.
 - **R. K. Gupta, A. Y. Chia, D. Rajan, E. S. Ng, H. Zhiyong**
  _“Image Colorization Using Similar Images”_, Proceedings of the 20th ACM international conference on Multimedia, 2012.
 - **M. G. Blanch, M. Mrak, A. F. Smeaton, N. E. O’Connor**
-_“End-to-End Conditional GAN-based Architectures for Image Colourisation”_ , arXiv.
-2019.
+_“End-to-End Conditional GAN-based Architectures for Image Colourisation”_ , arXiv. 2019.
 - **H. J. Kim, Y. D. Eo, D. K. Seo, J. S. Park, G. W. Park, W. Y. Park**
 _"Automatic Colorization of Grayscale Aerial Imagery Using XGBoost
-Regression”_, Proceedings of 40th Asian Conference on Remote Sensing,
-2019.
+Regression”_, Proceedings of 40th Asian Conference on Remote Sensing, 2019.
